@@ -12,8 +12,7 @@
 * show list of scrape results
 
 [sqlite3]
-* jobs (id, datetime, URL, running)
-* results (id, job_id, result_code, result_message)
+* jobs (id, datetime, url, file)
 
 [monolith]
 * called via python3
